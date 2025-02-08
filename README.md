@@ -1,1 +1,1 @@
-Simple tip calculator I made in kotlin
+### Simple tip calculator I made in Kotlin
